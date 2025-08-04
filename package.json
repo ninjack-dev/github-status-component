@@ -1,0 +1,17 @@
+{
+  "name": "github-status-component",
+  "version": "1.0.0",
+  "description": "Component to display recent GitHub activity for a user",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@octokit/types": "^14.1.0",
+    "@types/node": "^24.0.14",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3"
+  }
+}
